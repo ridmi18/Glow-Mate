@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build outputs
+bin/
+obj/
+Debug/
+Release/
+
+# Temporary files
+*.tmp
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local database files
+*.mdf
+*.ldf
